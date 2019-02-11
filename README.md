@@ -1,2 +1,2 @@
 # DigitClassification
-Use Tensorflow neutral network to classify digits from image input
+Use convolutional neural network to classify digits from image input
