@@ -81,12 +81,3 @@ def testCustomImage(path):
 
 testCustomImage("test_image.png")
 
-
-"""QUESTIONS"""
-
-"""What are the advantages of the different gradient descent algorithms?"""
-"""How do we decide upon a loss function?"""
-"""When would we use metrics other than 'accuracy'?"""
-"""Good amount of epochs to start with?"""
-"""Where do the Y labels come from?"""
-"""Why did adding a standard deviation of .1 get better results for me?"""
